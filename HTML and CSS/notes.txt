@@ -1,0 +1,26 @@
+type of css -
+	inline 
+	internal
+	External
+
+in internal css-style tag should always return inside the head tag.
+
+selector tag>
+
+when we directly write tag name - tag selector
+class =use. we can give multiple value
+id = use# it can only give 1 value
+*-all- universal tag
+grouping tag 
+
+
+
+
+
+margin use when page setup like left right etc
+padding use when - within an element or container we want some spacing 
+
+
+inline and inline-block difference
+inline - 1 Fayda - display inline use - width property doesn't work
+	2 fayda- 

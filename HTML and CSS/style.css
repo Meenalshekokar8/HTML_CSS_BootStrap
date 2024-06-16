@@ -1,0 +1,24 @@
+p{
+/*	font-style: italic;*/
+	font-size: 35px;
+}
+
+#paraone{
+	font-weight:bold ;
+	font-family: verdana;
+}
+
+#paratwo{
+	font-weight: 100;
+	font-family: lucida sans;
+}
+
+#parathree{
+	font-weight: 600;
+	font-family: Tempus Sans ITC;
+}
+
+h1{
+	font-weight: 100;
+	font-family: Tiny5;
+}
