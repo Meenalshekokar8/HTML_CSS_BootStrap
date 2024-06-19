@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+ul{
+	list-style: none;
+	font-size: 20px;
+}
+
+.mainmenu{
+	background-color: skyblue;
+}
+
+.mainmenu li{
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	padding: 10px 0px;
+}
+
+.mainmenu li:hover {
+	background: black;
+}
+
+.mainmenu li:hover a{
+	color: white;
+}
+
+li a {
+	text-decoration:none;
+	color: black;
+}
+
+.submenu li{
+	display: block;
+	text-align: center;
+	line-height: 40px;
+} 
+
+.submenu{
+	display: none;
+	position: absolute;
+	background: skyblue;
+	margin-top: 10px;
+}
+
+.mainmenu li:hover .submenu {
+	display: block;
+}
